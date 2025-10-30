@@ -1,0 +1,8 @@
+Emotion: [{'label': 'surprise', 'score': 0.42220208048820496}]
+
+Sentiment: [{'label': 'neutral', 'score': 0.6990257501602173}]
+
+Intent: {'sequence': "7 years back in 2018, when I was thinking about the first video, why do people only review movies in English? At that time, I didn't even think that one day it will be like this when a YouTuber will make his own film. A new trailer has been released in the name of Ekaki and the special thing is that this film is being made by Ashish Chanchlani. He himself is a writer, director, actor and everything. In Bollywood, like the era of horror comedy, in the same race, Ashish Bhaiya jumped and laughed. People are confused. For the first time, making a film by yourself is the most difficult task in the world and it is not difficult for the film to be released on YouTube. And that's why the first scene of this trailer is not a Bollywood movie. It's a movie that comes for free. Visuals are great. Real locations are great. It doesn't look like a normal YouTube video. But till the end, when I saw the whole trailer, I just thought, how did such a big mistake happen? There's no need to tell. Horror c", 'labels': ['Review/Opinion', 'Story/Narrative', 'Motivational', 'Entertainment', 'Informative/News', 'Educational/Tutorial'], 'scores': [0.24162378907203674, 0.2173379808664322, 0.20777924358844757, 0.18914251029491425, 0.09398791193962097, 0.0501285083591938]}
+
+Summary:
+A new trailer has been released in the name of Ekaki. The special thing is that this film is being made by Ashish Chanchlani. He himself is a writer, director, actor and everything.

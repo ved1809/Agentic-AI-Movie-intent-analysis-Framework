@@ -1,0 +1,8 @@
+Emotion: [{'label': 'fear', 'score': 0.982743501663208}]
+
+Sentiment: [{'label': 'neutral', 'score': 0.4947616755962372}]
+
+Intent: {'sequence': "Anyone who thinks that horror is a dark, scary face or doors that can be heard from the air, today your perspective is changing. A scary series has been released on OTT, which will make you really scared, about which you don't just look at your eyes, but keep thinking about it all your life. It Welcome to Derry, this show is based on the same famous It Movie series in which this scary Joker has made a lot of people sleep. But there, let's just show the face, this series will explain the story behind the Joker. Pennywise, Its name is Bana to Bana Khoom and how it was made? Why does it do this with people? This show was released in Hollywood but you can easily see it in India on a hot star in Hindi dubbing and the quality of dubbing is absolutely amazing. Don't worry. And yes, I can swear to be honest. This year's most shocking starting of any film or show is of the same series. Something that was not seen in India's theatre was played in a censor board in Sadma. The first scene is like ", 'labels': ['Story/Narrative', 'Review/Opinion', 'Entertainment', 'Informative/News', 'Motivational', 'Educational/Tutorial'], 'scores': [0.2841344475746155, 0.26196566224098206, 0.1949944943189621, 0.10407212376594543, 0.10234630107879639, 0.052486956119537354]}
+
+Summary:
+A scary series has been released on OTT, which will make you really scared. This show was released in Hollywood but you can easily see it in India on a hot star in Hindi dubbing. This year's most shocking starting of any film or show is of the same series.
